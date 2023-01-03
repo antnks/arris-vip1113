@@ -496,3 +496,7 @@ SoftDog: Unexpected close, not stopping watchdog!
 Restarting system.
 Manual soft reset!
 ```
+
+# JTAG pinout
+
+![jtag.png](jtag.png)

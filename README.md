@@ -500,3 +500,7 @@ Manual soft reset!
 # JTAG pinout
 
 ![jtag.png](jtag.png)
+
+# UART
+
+![uart.jpg](uart.jpg)

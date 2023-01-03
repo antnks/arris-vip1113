@@ -1,7 +1,7 @@
 # arris-vip1113
 Hacking Telia TV box Arris VIP1113
 
-# Bootl log
+# Boot log (no firmware available in NAND)
 
 ```
 System memory: 512 MB
@@ -202,3 +202,7 @@ ShMemInfo: ver 5
  LogBuf: 4e70, len 254
  ReqBuf: 4f70, len 138
  ```
+
+# Hidden settings to enable TFTP
+
+![settings_1.png](settings_1.png)

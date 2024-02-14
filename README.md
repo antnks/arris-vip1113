@@ -203,6 +203,15 @@ ShMemInfo: ver 5
  ReqBuf: 4f70, len 138
  ```
 
+# Hidden menu
+
+1. boot
+2. press menu
+3. enter 2357 - hidden IP config appears
+4. enter 7532 - hidden boot config appears
+
+Default boot order: 313
+
 # Hidden settings to enable TFTP
 
 ![settings_1.png](settings_1.png)

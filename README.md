@@ -216,6 +216,19 @@ Default boot order: 313
 
 ![settings_1.png](settings_1.png)
 
+# Defaut boot order
+
+Kernel protocol 313 means kernel image will be downloaded using method "3", if failed try method "1", if failed again method "3".
+Every digit means some method:
+
+* TFTP
+* USB
+* Mutlicast
+* HTTP
+* etc
+
+By entering "12345" or "34567" you can check which code does what. You should see on the serial console kernel image download process.
+
 # Boot log of Telia firmware
 
 ```

@@ -529,8 +529,8 @@ Manual soft reset!
 
 # PCB photos
 
-![arris-vip1113-pcb-front](arris-vip1113-pcb-front)
+![arris-vip1113-pcb-front.jpg](arris-vip1113-pcb-front.jpg)
 
-![arris-vip1113-pcb-back](arris-vip1113-pcb-back)
+![arris-vip1113-pcb-back.jpg](arris-vip1113-pcb-back.jpg)
 
 

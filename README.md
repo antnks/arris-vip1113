@@ -526,3 +526,11 @@ Manual soft reset!
 # UART
 
 ![uart.jpg](uart.jpg)
+
+# PCB photos
+
+![arris-vip1113-pcb-front](arris-vip1113-pcb-front)
+
+![arris-vip1113-pcb-back](arris-vip1113-pcb-back)
+
+

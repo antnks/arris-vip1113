@@ -228,14 +228,17 @@ Default boot order: 313
 
 # Defaut boot order
 
+Source: "kreatv-kit-sdk_4.3.IAP30.3_st40/doc/booting/dhcp/dhcp_options_kreatv_firmware.html"
+
 Kernel protocol 313 means kernel image will be downloaded using method "3", if failed try method "1", if failed again method "3".
 Every digit means some method:
 
-* TFTP
-* USB
-* Mutlicast
-* HTTP
-* etc
+* 1 = BootCast
+* 2 = TFTP
+* 3 = Local Storage (if available)
+* 4 = SAP (Session Announcement Protocol)
+* 5 = DVD/CD (if available)
+* 6 = HTTP (available from version 3.03) 
 
 By entering "12345" or "34567" you can check which code does what. You should see on the serial console kernel image download process.
 

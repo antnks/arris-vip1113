@@ -205,6 +205,16 @@ ShMemInfo: ver 5
 
 # Hidden menu
 
+Source: "kreatv-kit-sdk_4.3.IAP30.3_st40/doc/booting/firmware/ip.html"
+
+```
+2. Enter code [2 3 5 7] by using the number buttons on the remote control.
+This will show the hidden IP option.
+
+Note! This code should be kept secret, and never disclosed to any end customers. 
+```
+LOL
+
 1. boot
 2. press menu
 3. enter 2357 - hidden IP config appears

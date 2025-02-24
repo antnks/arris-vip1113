@@ -238,7 +238,9 @@ Every digit means some method:
 * 3 = Local Storage (if available)
 * 4 = SAP (Session Announcement Protocol)
 * 5 = DVD/CD (if available)
-* 6 = HTTP (available from version 3.03) 
+* 6 = HTTP (available from version 3.03)
+* 7 = USB
+* 8,9 = not used
 
 By entering "12345" or "34567" you can check which code does what. You should see on the serial console kernel image download process.
 

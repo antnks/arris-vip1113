@@ -216,7 +216,7 @@ Note! This code should be kept secret, and never disclosed to any end customers.
 LOL
 
 1. boot
-2. press menu
+2. press menu on the remote (or F9 on the keayboard)
 3. enter 2357 - hidden IP config appears
 4. enter 7532 - hidden boot config appears
 

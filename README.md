@@ -8,6 +8,9 @@ Symmetric AES-256-ECB key used to encrypt firmware:
 ```
 cd1c2d78f2cba1f73ca7e697b4a485f49a8a7d0c8b0fdc9f51ced50f2530668a
 ```
+Decrypted artifacts:
+- Telia kernel 2.6.32.59: [telia-kernel.gz](telia-kernel.gz)
+- Telia firmware rootdisk: [telia-rootdisk.squashfs.gz](telia-rootdisk.squashfs.gz)
 
 # Boot log (no firmware available in NAND)
 

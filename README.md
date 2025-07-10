@@ -569,4 +569,9 @@ Manual soft reset!
 
 ![arris-vip1113-pcb-back.jpg](arris-vip1113-pcb-back.jpg)
 
+# Post exploitation reverse shell
 
+Recommend to use this sh4 version of busybox:
+```
+BusyBox v1.16.1 (2010-03-29 11:48:57 CDT)
+```
